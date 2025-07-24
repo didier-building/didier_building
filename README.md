@@ -20,7 +20,7 @@ I'm a **Fullstack Developer** with a strong focus on **Django** for backend syst
 ## 📫 Let's Connect
 
 - Twitter: [@didier53053](https://x.com/didier53053)
-- Personal Website (if any): [imairaharahari.netlify.app](https://imanirahari.netlify.app)
+- Personal Website (if any): [imanirahari.netlify.app](https://imanirahari.netlify.app)
 
 ---
 
