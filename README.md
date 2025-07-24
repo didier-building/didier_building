@@ -8,7 +8,7 @@ I'm a **Fullstack Developer** with a strong focus on **Django** for backend syst
 
 - ⚙️ Backend: `Python`, `Django`, `Django REST Framework`
 - 🌐 Frontend: `HTML`, `CSS`, `JavaScript`, `React`
-- 🧠 Web3: `Solidity`, `Vyper`, `Ethers.js`, `Hardhat`, `Chainlink`, `IPFS`
+- 🧠 Web3: `Vyper`, `web3.py`, `Moccasin`, `Chainlink`, `IPFS`, `Alchemy`, `Cyfrin`
 - 🛠️ Tools: `Git`, `Linux`, `PostgreSQL`, `Docker`, `VS Code`, `Ganache`, `Foundry`, `Moccasin`, `Titanoboa`
 
 ## 🚀 Current Focus
